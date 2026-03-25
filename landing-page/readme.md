@@ -40,6 +40,7 @@ Through this project, I learned and practiced:
 
 ---
 
+
 ## 📂 Project Structure
 
 ```
@@ -74,20 +75,8 @@ git clone https://github.com/yourusername/landing-page.git
 * Designed sections similar to real-world landing pages
 
 ---
+<img width="1920" height="1181" alt="screencapture-127-0-0-1-5500-2026-03-25-16_29_40" src="https://github.com/user-attachments/assets/ade99d7a-90ee-4e1d-a876-262fc6d72993" />
 
-## 📚 Future Improvements
-
-* Make the website fully **responsive using media queries**
-* Add **hover effects and animations**
-* Improve UI using advanced CSS (Grid, transitions)
-* Convert this into a **React project**
-* Add backend functionality for user interaction
-
----
-
-## 👨‍💻 Author
-
-**K Akhil Kumar**
 
 * GitHub: https://github.com/kakhilkumar6423
 * LinkedIn: https://www.linkedin.com/in/kakhil-kumar-6423/
